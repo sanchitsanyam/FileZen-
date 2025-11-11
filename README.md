@@ -74,7 +74,7 @@ FileZen_Test/
 
 Below is the real **FileZen+ GUI** running on Windows while scanning 4000+ files:
 
-![FileZen+ GUI Screenshot](<img width="964" height="728" alt="image" src="https://github.com/user-attachments/assets/6a7cf239-5ecc-44d5-93e4-f173203484b2" />
+![FileZen+ GUI Screenshot](Filezen+.png
 )
 
 ---
