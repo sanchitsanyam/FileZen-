@@ -17,7 +17,7 @@ A **Python + Tkinter GUI** project that automatically organizes files in a chose
 
 ---
 
-##  Learning Objectives (Module V Mapping)
+##  Learning Objective
 
 | Concept | Implementation |
 |----------|----------------|
