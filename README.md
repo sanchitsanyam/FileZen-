@@ -2,7 +2,7 @@
 
 A **Python + Tkinter GUI** project that automatically organizes files in a chosen folder by their type  
 (Images, Documents, Code, etc.). It visually demonstrates **Object-Oriented Programming concepts** and  
-**Garbage Collection awareness**, designed for academic coursework (Module V).
+**Garbage Collection awareness**..
 
 ---
 
