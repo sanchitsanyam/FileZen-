@@ -93,11 +93,3 @@ FileZen-Plus/
     └── ui_preview.png
 ```
 
----
-
-## License
-Released under the **MIT License** — free for educational and personal use.
-
----
-
-
