@@ -1,4 +1,4 @@
-# 🧠 FileZen+ — Intelligent File Organizer using Python OOP, Data Structures & GC
+#  FileZen+ — Intelligent File Organizer using Python OOP, Data Structures & GC
 
 A **Python + Tkinter GUI** project that automatically organizes files in a chosen folder by their type  
 (Images, Documents, Code, etc.). It visually demonstrates **Object-Oriented Programming concepts** and  
@@ -6,7 +6,7 @@ A **Python + Tkinter GUI** project that automatically organizes files in a chose
 
 ---
 
-## ✨ Features
+##  Features
 
 - GUI built with **Tkinter**
 - Groups files by extension using a **dictionary (hash map)**
@@ -17,7 +17,7 @@ A **Python + Tkinter GUI** project that automatically organizes files in a chose
 
 ---
 
-## 🎯 Learning Objectives (Module V Mapping)
+##  Learning Objectives (Module V Mapping)
 
 | Concept | Implementation |
 |----------|----------------|
@@ -31,7 +31,7 @@ A **Python + Tkinter GUI** project that automatically organizes files in a chose
 
 ---
 
-## 🧰 Installation
+##  Installation
 
 ```bash
 git clone https://github.com/YourUsername/FileZen-Plus.git
@@ -57,7 +57,7 @@ All modules used are in the Python Standard Library.
 
 ---
 
-## 📁 Folder Output Example
+## Folder Output Example
 
 ```
 FileZen_Test/
@@ -74,11 +74,12 @@ FileZen_Test/
 
 Below is the real **FileZen+ GUI** running on Windows while scanning 4000+ files:
 
-![FileZen+ GUI Screenshot](screenshots/ui_preview.png)
+![FileZen+ GUI Screenshot](<img width="964" height="728" alt="image" src="https://github.com/user-attachments/assets/6a7cf239-5ecc-44d5-93e4-f173203484b2" />
+)
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 FileZen-Plus/
@@ -94,12 +95,9 @@ FileZen-Plus/
 
 ---
 
-## 🪪 License
+## License
 Released under the **MIT License** — free for educational and personal use.
 
 ---
 
-## 👨‍💻 Author
-**Your Name**  
-B.Sc / M.Sc (Data Science or Computer Science)  
-[GitHub Profile](https://github.com/YourUsername)
+
